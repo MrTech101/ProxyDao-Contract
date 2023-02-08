@@ -1,0 +1,5444 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x95dec9B4127eb360391B59951C91E08c1CeD1B66",
+    "txHash": "0x21bd07c7939d3f8aa0a6b77f7ed4e1fc8a4168a20c0ba99e0b34a4edb08398df"
+  },
+  "proxies": [
+    {
+      "address": "0xF82f6b8F01504973E99ccB15A592521C2432E970",
+      "txHash": "0xc10c6c867d18ace5cfd9e2d3b4601397fdceada5b885dae4d951d11e1d6ded72",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb0f3534A73B8BD078EA582B16C174De99aaCEC70",
+      "txHash": "0xd759352685872e7c0a0d6c34f85618e64c310330d196034b27184c17d6608f22",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x49104ba9064D57072D4607C07efF4889a3a9ab9D",
+      "txHash": "0xd6b0fa5dd7de0c300c37c810f114637f91846a8808050d912b57f1b5d44d6cd1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3092Bd8D672D7F41cE9d7Eea4e476269F017d28a",
+      "txHash": "0xc6e51e62c733b65b05a4f1cacc8abd6e5d81aa07cf2aa9b712ee4c244fd33198",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x47140af3266d8Ca0f36980d588d8a9E5Be146744",
+      "txHash": "0x194ae111da1dac04f45235c87448a0149e2fb703b5a8e81c4a63f1ae6a279edc",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x40e98A49c0d7Bb3521B148A6C9A756A01371CFbd",
+      "txHash": "0x761f4fbb4ea5ba159ff7aeb3b9ccafa213a955f3a27bf8ef72062a6e32b74390",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x09A869b0dcbD72785387005A4eA54BdB4d038367",
+      "txHash": "0x1dfec4a32868a20b47a1983478f9045625deb0cbb293de9219905a9338cdf027",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xEF0CE36aA0A8022caC776D57Fd487967d80C8E49",
+      "txHash": "0x05b33b5e4d9200af65abd7287a55d40c48863e19fbbbd05b44abd5d37ecd123a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x407977cAcB1c208B3f09efb4B7b15A0a7AF7178a",
+      "txHash": "0x0a399035cfcfc814306a6e4eea1b9473463325330ba615e85bcd86ca6db9e97a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x533A79AEC44C3e15360eb2465638C0B8D9bB6Acf",
+      "txHash": "0xdcc2b1205a6b9aba284ae80f6972c0c986c9534958d9951b0108d1a3692ac646",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x932d913b02a61c3Ae68c43480aaAa145925c7cD2",
+      "txHash": "0xa2cb54fe94f21647215e579d5d185a7b97c13c072bb0ecdb1da13f5b0a0e542c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x08d47435Cc2550bc2B0E20fe61d001F692965E0f",
+      "txHash": "0xc2d69d3f2a642038c2aa76420de9e41ee1cb4599aeb69eb2ab726896b6da4bf8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1c418A04951De03c3E37aFDe86899a7E0AF37DAD",
+      "txHash": "0x8c604f36b1071c64d86febe703c21772a2024b3c03f5deccb663d03236d7ab14",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA979870299344BC608A0396b8056FB9CeBF0304B",
+      "txHash": "0x1c0802a057c893ede07ce8e9a40c16d89d0ca280848f53b251ea027cc16bb2e9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xE54E36C48aa4276aEE863DcEC09bB942d0f6705A",
+      "txHash": "0xa8e67ed9b0a2aef1173e3452c4682446c5ed54c32d2617f2d3419d7876239176",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x24b69206b7158E05502F86643e3377B3d452b942",
+      "txHash": "0x11007e1784387eb17a9ffa7f7f931becdfe7113fabad4cefad0f8df275e95c01",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x745d643b9D5fBEE4155f2A7B16BC98d5059a4371",
+      "txHash": "0xb087a9e7ce939c0eca059f8c0044109c844ec82167754261d8f30ae0f0f8555f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xC7991c8cA68C3a68b8c3b1cf32796262DAb693A5",
+      "txHash": "0x73a8396de1b4381b8026ba3dcffd7ae4b0c3cec8b0735ed4aaf522650dd47910",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "7f0524e258866731a21cdddd8767c28c07c754063c90b98cc491c82c1dafc776": {
+      "address": "0xCab541496328CE4395Bf4bE13115DC122e8CD67c",
+      "txHash": "0x6d00b47ef4e5f6249c58279025da9b57f62fed181f43a1cfb2831ccf875f9466",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_struct(PreSaleInfo)589_storage",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:39"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(IERC20)1300",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:42"
+          },
+          {
+            "label": "PRICE_NUMERATOR",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:45"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:48"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:51"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:54"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:57"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_bool",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:60"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "110",
+            "type": "t_bool",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:63"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:66"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:69"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)594_storage)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:72"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1300": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)594_storage)": {
+            "label": "mapping(address => struct BscDaoPresaleUpgradeable.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)594_storage": {
+            "label": "struct BscDaoPresaleUpgradeable.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)589_storage": {
+            "label": "struct BscDaoPresaleUpgradeable.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "064247915bade06603a27159d2ff05feea24deeef8657a77259880feec308e15": {
+      "address": "0xC9A49d7565B8b64CdE7e7c2DE732568dcA5187C0",
+      "txHash": "0x2fd6a31a0c063783a2ab07abceb50f68dbb9f223086a82b1f9f2123f6874fd40",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_struct(PreSaleInfo)589_storage",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:39"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(IERC20)1300",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:42"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:48"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:51"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:54"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:57"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_bool",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:60"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "109",
+            "type": "t_bool",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:63"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:66"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:69"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)594_storage)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:72"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1300": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)594_storage)": {
+            "label": "mapping(address => struct BscDaoPresaleUpgradeable.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)594_storage": {
+            "label": "struct BscDaoPresaleUpgradeable.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)589_storage": {
+            "label": "struct BscDaoPresaleUpgradeable.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "48b49b05e7f39bb14db3bc6a455d693b79e33cc00437f4e45ce58e14671f7552": {
+      "address": "0x6566D50B99a6394881c484322e4FAC6EDeCa55Ab",
+      "txHash": "0xac35f4d1aff0523f0ff12a91c06ab8b95a46c640f54035518e43a0d70ea3afd3",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_struct(PreSaleInfo)589_storage",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:37"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(IERC20)1300",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:40"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:46"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:49"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "108",
+            "type": "t_uint256",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "109",
+            "type": "t_bool",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "109",
+            "type": "t_bool",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)594_storage)",
+            "contract": "BscDaoPresaleUpgradeable",
+            "src": "contracts\\BscDaoPresaleUpgradeable.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1300": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)594_storage)": {
+            "label": "mapping(address => struct BscDaoPresaleUpgradeable.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)594_storage": {
+            "label": "struct BscDaoPresaleUpgradeable.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)589_storage": {
+            "label": "struct BscDaoPresaleUpgradeable.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "e689fb66ca859a02602d04e5108210a4cfe3a9c812df1d14b434339a3b1a97f3": {
+      "address": "0x435467F74cc307B50e567e5eF35d4B2DDC493d4d",
+      "txHash": "0xef1eb34e879f055444178a78a8c16e2158e5b33c90854b0d7aaf25d815f3adaa",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)1099",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:32"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:35"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:38"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:41"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:44"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:50"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)1824_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:53"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:56"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:59"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:62"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:65"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:68"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)1829_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:71"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1099": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)1829_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)1829_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)1824_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "0151d292384fcc122b8e61be760ba5a5a82f972b8701e7acc8bfdb5ffb6b80cc": {
+      "address": "0x1C732Cd70d31b5E971dDd6eb00c34D9005F50ABd",
+      "txHash": "0xfeda3803489304c985e46f267ef7a59351de85f32649c9d4384e74ea68210166",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)645",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)645": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "27e191a7caa510baf37cd72b466b403108e9b3ce4bc8be50da34761b154d1382": {
+      "address": "0x3F6154cbADB68432988b2189E550abB8E3666011",
+      "txHash": "0x8047e7c244c80671f6a9ff4aca9c065bb8bc326e554b0f00fa3783cade963bb1",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)645",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)645": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "643d47e11905f845e59644d5e4c2400c0a4afba4dc4c35f868b48187705aa3f1": {
+      "address": "0x6e3fD3d66c139b6141c3a9Ed3d6B933635C219b1",
+      "txHash": "0xd7eb9ca0a210a8e0b175b05370c965f6a548aba2ce160c2a35bd3fb5ac78cf34",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)645",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)645": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "ec58afee7606ff8b0d0318356eaa183f86bae30147a4ffc9604aaa1c076b0278": {
+      "address": "0x2c221Ec557540dd6904706210325b721F7648241",
+      "txHash": "0x10dcebca176bc010e689d86888503df44c922ad5374e036ed95542d3c250e491",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "323595714574e604372320bfc29594a8a39515b32537c167c80d77baea2ec188": {
+      "address": "0xaA170172D8048514964462b379Ee7FA13b934A40",
+      "txHash": "0xfe9deb92601180d071ab032f3256d43992f2118a3b0da0c0ca266d62c35b2825",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "3e71bfdf8f5da36c47b1644a3f99d5ed5efb099af1180a06841b6a9fb99a15d2": {
+      "address": "0x3B92fCbffe0D9cEf8E6dD1dDC813e8fDD4640222",
+      "txHash": "0xa859bf9bf98406684c62b21e8c1b7ba239efb4ef7477fe6ddaa280cb045b0ef1",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "ac7ae5308c2f94e930fe7e56685b957bd44560be446f3f41e0e6c5ea1ce43f47": {
+      "address": "0xb7961866ABc6b327F625826e5FdA06F4A1e82F45",
+      "txHash": "0x5ab46b1f130a56ed0677152c39f6fa6829ea0c2e5f5c269c259ff508497389d4",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "7696a1d2af7f86d54dd3d61ba1bde523ae73bfc7121ee274a96a4bfcc0b9e3f4": {
+      "address": "0x8Ec9D530f8FFA02e0bf8c959e2Faac83F0963100",
+      "txHash": "0x33bf2f20f826a4411cef5e7a812850b3946c06d9e7e93ed07543d41c4f71aece",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)1612",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)1632_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)1637_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1612": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)1637_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)1637_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)1632_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "7855bb0526b84ad6080ff9110598f3e7e95360290dcb9694a224117840896e0f": {
+      "address": "0x9D499E6B57026d69a9c47fD94CE5FAD8c7cC2BC0",
+      "txHash": "0xed268850db29a43640e56868ac5b2ab4f058c4a45552233ff3e1a4e07f18f3b2",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "a79915de5adae42bedd69a889613b04f1b035c97c21f962c75713c122d331dec": {
+      "address": "0xc37f15f7c98cc170015C740D92eb9e50542F28c8",
+      "txHash": "0x65533c8f234a59ee336ac623aa399b1964c8d84367ec5fea2c3b4fbdb258ea93",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "5e700ad032d0fd9adc4a0604d4b4ddf376b27d78d6f8f1e5fa545f689ecc687b": {
+      "address": "0x81a16dA14f6eCb19fb2e9b4f9640A743192C947F",
+      "txHash": "0xec8f4aca9d6be8e3ccb828980ceb00483ddfdb81f13ace1b8b3f07f94642757c",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "b7d9bac63a370797f1feccdc5aff078889d127374c4441c0e7a54b4a3e2e039e": {
+      "address": "0xE67CBe1312AD56fdfA298B30fc56203Dc9CE34B6",
+      "txHash": "0x8702245f936e8ae12061d5ade74f13420942d6ba712cc8ef9299fa125db620aa",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "7d8b56d4847923e7ada5eb30180011baf30dad4d3ed3dfcce1eaafb5f9a1d628": {
+      "address": "0xcAE15622303BD9c18a77A944b850Cf71F4385841",
+      "txHash": "0xaedb18fcc00ac64ca44767d4b4908ffcbf5ab0ee6b10b199dfa22b93c9a5ed12",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "785c79b44a94a2b093e98c625af05762241b8245afa415491dc117f173fd820c": {
+      "address": "0xD6bA02677679E4c7e18517127EE0F0e73E584462",
+      "txHash": "0x0da7dfb147df6cfa27a0c95d944f6024238cbfc3cd0c0fbb9b286176728d4823",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "f71ab90ccd913cb1fa82013c767bf0766d808d80c159a8b76a9199d8b27f390c": {
+      "address": "0x799eA358872AF2966Ebd1E4FA835b7d5E0216FC2",
+      "txHash": "0xaec9547851a32155e4d6c1524b5efe77b26a1a4d42d3d4b4084e394a7a4f910e",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "89d9bf999fe3184f763eefa4a9d42355db38699b11fccf3bd997d22635d58b78": {
+      "address": "0xFf475643B980d9C236B81cCafbEAc565755e5D18",
+      "txHash": "0x9eb6b221f959e795955ba95d47c711950485391c5e36908a56cb49f78a4d102f",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:31"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:34"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:37"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:40"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:43"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:49"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:52"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:55"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:58"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:61"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:64"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:67"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:70"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "4e967214459252678dcae2d9ef206ec417852e8f14976a085aa38ac18544d07a": {
+      "address": "0x2f6FCEE5C3B56C4d500f436E1b204b14dDe0e145",
+      "txHash": "0x34e4c9e8ea0484063a03584897e142124f4f278e9dd441d5725d94b60a9be000",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:30"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:33"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:36"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:39"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:42"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:48"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:51"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:54"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:57"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:60"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:63"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:66"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:69"
+          },
+          {
+            "label": "tokenValue",
+            "offset": 0,
+            "slot": "115",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:71"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "5d436c6f1bc825632aa1e80a18caa3e2046603ad18fa29582f9b0f2a92bfc7fd": {
+      "address": "0xD590499D1819D732405D48BbAA83b49699DAf0b8",
+      "txHash": "0x8194192564066c9c5e506152d2828c2a268d5ef2655888f9abae2b6358a59f93",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:30"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:33"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:36"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:39"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:42"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:48"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:51"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:54"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:57"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:60"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:63"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:66"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:69"
+          },
+          {
+            "label": "tokenValue",
+            "offset": 0,
+            "slot": "115",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:71"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "e141df0d7445d80a2bf869f38adcef6c178fc0506498447525363727ac1e16fb": {
+      "address": "0xA6F5c35351780F9F2320c80AA7adb07770F2b8Ab",
+      "txHash": "0xa4e802b359cb8042bc041abc2bf1407c670029550a40e7ce2d967f40f4a351e0",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "bscDao",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_contract(IERC20)957",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:30"
+          },
+          {
+            "label": "bscDaoPrice",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:33"
+          },
+          {
+            "label": "wallet",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:36"
+          },
+          {
+            "label": "Cap",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:39"
+          },
+          {
+            "label": "raisedBnb",
+            "offset": 0,
+            "slot": "105",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:42"
+          },
+          {
+            "label": "affiliatePercentage",
+            "offset": 0,
+            "slot": "106",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:48"
+          },
+          {
+            "label": "preSaleInfo",
+            "offset": 0,
+            "slot": "107",
+            "type": "t_struct(PreSaleInfo)977_storage",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:51"
+          },
+          {
+            "label": "totalUsersParticipated",
+            "offset": 0,
+            "slot": "110",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:54"
+          },
+          {
+            "label": "isPublicSale",
+            "offset": 0,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:57"
+          },
+          {
+            "label": "isSaleEnd",
+            "offset": 1,
+            "slot": "111",
+            "type": "t_bool",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:60"
+          },
+          {
+            "label": "bscDaoUserAllocation",
+            "offset": 0,
+            "slot": "112",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:63"
+          },
+          {
+            "label": "userPurchases",
+            "offset": 0,
+            "slot": "113",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:66"
+          },
+          {
+            "label": "affiliates",
+            "offset": 0,
+            "slot": "114",
+            "type": "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:69"
+          },
+          {
+            "label": "tokenValue",
+            "offset": 0,
+            "slot": "115",
+            "type": "t_uint256",
+            "contract": "Presale",
+            "src": "contracts\\UpgradablePresaleProxy.sol:71"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)957": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(AffiliateInfo)982_storage)": {
+            "label": "mapping(address => struct Presale.AffiliateInfo)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AffiliateInfo)982_storage": {
+            "label": "struct Presale.AffiliateInfo",
+            "members": [
+              {
+                "label": "totalReferedUsers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "earnedBNB",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(PreSaleInfo)977_storage": {
+            "label": "struct Presale.PreSaleInfo",
+            "members": [
+              {
+                "label": "minAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "maxAllocation",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "purchaseCap",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    }
+  }
+}
